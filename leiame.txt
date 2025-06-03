@@ -1,0 +1,18 @@
+Integrantes: João Daniel, Adria Tavares;
+Turma: 911-A;
+Fontes utilizadas: ChatGPT; Copilat IA extensão VSCODE; correção em tempo; Materias do classroom; canais do youtube: (programação web e Rafael Cunha); 
+Perguntas para responder:
+
+1- Conseguiu implementar todas as funcionalidades propostas? Se não, quais ficaram de fora e por quê? 
+
+ R = Prompt-Sync, funções, consoles, propriedades(algumas que foram estudadas por fora ex: Objetct.keys, isNaN), variáveis, if e else if, expressões booleanas, estruturas de repetição (for), arrays e Strings.
+
+2-Quais são os principais pontos fortes e fracos do código? Algum trecho poderia ser melhorado? 
+ R = Ele foi bastante pensado, sendo divididos em várias funções. Um ponto fraco é que as funções ainda precisam ser mais desenvolvidas.
+
+3-Quais foram as principais dificuldades encontradas e como tentaram resolvê-las? 
+ R = Achar uma lógica precisa de como ligar as funções, utilizar todas as informações necessárias para implementar no código, como ter um resultado preciso na utilização de objetos. Foi necessário bastante tempo estuando as informações.
+
+4-Se trabalhou em dupla/trio, como foi a experiência de colaboração? O que funcionou bem e o que poderia melhorar?
+ R = Trabalhamos em dupla. Foi bastante simples, houve momentos de horas madrugando, porém foram algumas vezes de erros e de não está no mesmo horário combinado para programar.
+ 
